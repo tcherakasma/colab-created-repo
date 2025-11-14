@@ -1,2 +1,3 @@
-# colab-created-repo
-Created in colab
+# My Colab Repository
+
+Created from Google Colab!
